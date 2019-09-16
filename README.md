@@ -10,5 +10,6 @@ Un blog increible para el curso de [Git y Git Hub](https://platzi.com)
 * Trucos muy locos
 * Las personalidades multiples de Freddy
 * Creado por Platzi team
+* Incluye ejemplos en Windows
 
 Y como amable recordatorio: **Este readme.md es un chiste**. Diseño para aprender.
